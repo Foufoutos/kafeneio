@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://foufoutos.github.io/kafeneio/sitemap.xml
