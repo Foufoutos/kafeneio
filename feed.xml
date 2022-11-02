@@ -3,7 +3,7 @@
     <title>kafeneio</title>
     <link href="https://foufoutos.github.io/kafeneio/feed.xml" rel="self" />
     <link href="https://foufoutos.github.io/kafeneio" />
-    <updated>2022-11-02T21:32:48+02:00</updated>
+    <updated>2022-11-02T22:27:21+02:00</updated>
     <author>
         <name>foufoutos</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://foufoutos.github.io/kafeneio/mastodonto-mastodon.html"/>
         <id>https://foufoutos.github.io/kafeneio/mastodonto-mastodon.html</id>
 
-        <updated>2022-11-02T21:32:48+02:00</updated>
+        <updated>2022-11-02T22:27:21+02:00</updated>
             <summary>
                 <![CDATA[
                     Λίγα βασικά πράγματα για το Μαστόδοντο και το Καφενείο kafeneio.social Το Μαστόδοντο έιναι μέρος του Fediverse ενός γιγάντιου δίκτυου υπηρεσιών κοινωνικής δικτύωσης. Υπάρχουν πλατφόρμες για microblogging, blogging, photoblogging, videohosting και πολλά άλλα και είναι όλες διασυνδεδεμένες ή ομοσπονδιοποιημένες. Έτσι, χρειάζεστε μόνο έναν λογαριασμό για να&hellip;
@@ -34,6 +34,9 @@
 <p><span lang="el-GR">Για να συμμετέχεις στο Μαστόδοντο και κατ' επέκταση σε όλο το Fediverse, πρέπει να εγγραφείς σε κάποιο instance (δηλαδή σε κάποιον σέρβερ) και εν προκειμένω στο <a href="https://kafeneio.social" target="_blank" rel="noopener noreferrer">Καφενείο</a>.</span></p>
 <p><span style="text-decoration: underline;"><strong>Απορίες και προβλήματα, που κατά καιρούς εκφράζουν οι νεοεισερχόμενοι:</strong></span></p>
 <p>1) <span style="text-decoration: underline;">Πως μετακομίζω από ένα instance σε κάποιο άλλο;</span><br>Πρώτο βήμα στο παλιό instance:<br>Ρυθμίσεις --&gt; Εισαγωγή και Εξαγωγή --&gt; Εξαγωγή Δεδομένων --&gt; κάνεις κλικ όπου λέει CSV και κατεβάζεις τα αρχεία για backup. Επίσης πατάς "Αιτήσου το Αρχείο σου" και θα σου έρθει με μειλ.<br>Στη συνέχεια:<br>1. Εγγράψου σε έναν server<br>2. Στον ΝΕΟ server: Ρυθμίσεις --&gt; Λογαριασμός --&gt; Μεταφορά ΑΠΟ άλλον λογαριασμό<br>3. Εισήγαγε το διακριτικό του παλιού σου λογαριασμού + Δημιουργία Ψευδωνύμου<br>4. Στον ΠΑΛΙΟ λογαριασμό: Ρυθμίσεις --&gt; Λογαριασμός --&gt; Μετακόμιση ΣΕ άλλλον λογαριασμό<br>5. Εισήγαγε το διακριτικό του ΝΕΟΥ λογαριασμού και πάτησε υποβολή</p>
+<p>2) <span style="text-decoration: underline;">Πως ελέγχω τι βλέπω στο fediverse timeline;<br></span>Ρυθμίσεις --&gt; προτιμήσεις --&gt; άλλες και επιλέγεις ποιες γλώσσες θέλεις να εμφανίζονται στην δημόσια ροή<span style="text-decoration: underline;"><br></span></p>
+<p>3) <span style="text-decoration: underline;">Έχει DMs το Μαστόδοντο;<br></span>ΝΑΙ<br>όταν θέλεις να στείλεις Π.Μ, πατάς το εικονίδιο της υδρόγειου και επιλέγεις "Αναφερόμενα άτομα μόνο" <br>ή πατάς (κλικ) στον επιθυμητό λογαριασμό και από το μενού με τις 3 κατακόρυφες τελείες επιλέγεις "Άμεσο μήνυμα προς @λογαριαμός</p>
+<figure class="post__image"> <img loading="lazy"  src="https://foufoutos.github.io/kafeneio/media/posts/1/compose-toots.png" alt="Mastodon compose toots" width="470" height="215" sizes="100vw" srcset="https://foufoutos.github.io/kafeneio/media/posts/1/responsive/compose-toots-xs.png 300w ,https://foufoutos.github.io/kafeneio/media/posts/1/responsive/compose-toots-sm.png 480w ,https://foufoutos.github.io/kafeneio/media/posts/1/responsive/compose-toots-md.png 768w ,https://foufoutos.github.io/kafeneio/media/posts/1/responsive/compose-toots-lg.png 1024w ,https://foufoutos.github.io/kafeneio/media/posts/1/responsive/compose-toots-xl.png 1360w ,https://foufoutos.github.io/kafeneio/media/posts/1/responsive/compose-toots-2xl.png 1600w"></figure>
 <p><span style="text-decoration: underline;">Ορολογίες:<br></span>toot, το κείμενο που γράφεις και δημοσιεύεις<br>(re)boost, η προώθηση ενός toot<br>quote toot, αυτή η δυνατότητα ΔΕΝ υπάρχει. Έχει γίνει πολλή συζήτηση, κάποια στιγμή θα την προσθέσω στο παρόν κείμενο</p>
 <p><span lang="el-GR">Στο Μαστόδοντο έχεις στη διάθεσή σου 4 "timelines":<br></span><span lang="el-GR">1) Το γενικό, αυτό με όσους ακολουθείς εσύ.<br>2) Τα </span><span lang="en-US">notifications</span><span lang="el-GR">.<br>3) Το τοπικό, δηλαδή όλα τα toots που γράφονται στο instance που συμμετέχεις.<br>4) Το συνολικό, δηλαδή όλα όσα γράφονται στο Fediverse</span><span lang="el-GR">.</span></p>
 <p> </p>
